@@ -14,7 +14,6 @@ public class Main {
         double denisYearlyIncomeDiff = newDenisSalary * 12 - denisSalary * 12;
         double kristinaYearlyIncomeDiff = newKristinaSalary * 12 - kristinaSalary * 12;
 
-
         System.out.println("Маша теперь получает "  + newMashaSalary + " рублей. Годовой доход вырос на " + mashaYearlyIncomeDiff + " рублей.");
         System.out.println("Денис теперь получает " + newDenisSalary + " рублей. Годовой доход вырос на " + denisYearlyIncomeDiff + " рублей.");
         System.out.println("Кристина теперь получает " + newKristinaSalary + " рублей. Годовой доход вырос на " + kristinaYearlyIncomeDiff + " рублей.");
